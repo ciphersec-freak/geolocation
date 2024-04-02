@@ -3,7 +3,7 @@ This repository contains a Python script that can automatically perform geolocat
 
 ✅ What is Geolocation? 
 
-Geolocation is a method used to extract information about an IP address. It is commonly used for gathering large-scale data from an IP address.
+Geolocation refers to the identification of the geographic location of a user or computing device via a variety of data collection mechanisms.
 
 ✅ How does this script work? 
 
